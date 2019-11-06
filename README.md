@@ -1,2 +1,2 @@
 # AdvancedCAD
-The advanced Solidoworks assignments
+These are the advanced Solidworks assignments
