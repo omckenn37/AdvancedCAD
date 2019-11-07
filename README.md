@@ -4,7 +4,7 @@ These are the advanced Solidworks assignments
 ## Gears
 
 ### Description
-In This assignment, we had to make 4 different sized gears with different amounts of teeth using configurations, global variables, and equations in Solidworks.
+In this assignment, we had to make 4 different sized gears with different amounts of teeth using configurations, global variables, and equations in Solidworks.
 
 ### Lessons Learned
 This assignment was tough becausae it was my first time using configurations in solidworks. I had trouble because sometime sI would accidentally apply certain features to gears that were not supposed to have them. Once I got pass this though, it wasn't too hard of an assignment. 
