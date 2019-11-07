@@ -11,6 +11,8 @@ This assignment was tough becausae it was my first time using configurations in 
 
 ### Pictures
 
+<img src="media/Gears.JPG" width="500">
+
 ## Gearbox
 
 ### Description
@@ -20,6 +22,9 @@ In this assignment, we used the gears that we made in the last assignment to ass
 This assignment was the first time that we used gear mates. They were not too hard to figure out, but there were times where I would accidentally put in the wrong number of teeth for one of the gears and the rotation would become out of sync. It was also hard when we had to make the side plate for the gearbox because we were not given really any measurements besides the radius of a couple of circles. We basically had to make the gears mated before we could create the plate pieces. Also, there was trouble when we had to make the knob. it involved a lot of revolved boss bases and cuts which were a bit hard to visualize. 
 
 ### Pictures
+
+<img src="media/Gearbox1.JPG" width="500">
+<img src="media/Gearbox2.JPG" width="500">
 
 ## Motion Study
 
@@ -31,6 +36,8 @@ The assembly part of this assignment was pretty easy because we had done many th
 
 ### Pictures
 
+<img src="media/Motion study pic.JPG" width="500">
+
 ## Stress Analysis
 
 ### Description
@@ -41,3 +48,5 @@ In this assignment we learned how to use the stress analysis tool. This is helpf
 
 ### Pictures
 
+<img src="media/StressAnalysis1.JPG" width="500">
+<img src="media/StresAnalysis2.JPG" width="500">
